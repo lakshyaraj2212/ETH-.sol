@@ -48,5 +48,5 @@ balances[address _account]
 
 
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the license.md file for details.
 
