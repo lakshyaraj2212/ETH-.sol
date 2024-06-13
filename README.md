@@ -1,10 +1,14 @@
 Overview
+
+
 This is a simple "Token" program written in solidity that shows the practical steps to those new to Solidity and interested in understanding its basic syntax and functionality. It demonstrates the creation of a basic Ethereum token named "Igbani" with the symbol "IGN." The contract allows for the minting (creation) and burning (destruction) of tokens, while also keeping track of token balances for Ethereum addresses. The initial total supply of tokens is set to 0.
 
 Getting Started
+
 To run and interact with this program, you can use Remix, an online Solidity Integrated Development Environment (IDE). Here are the steps to get started:
 
 Execution Instructions
+
 Go to the Remix website at https://remix.ethereum.org/.
 
 Create a new file by clicking on the "+" icon in the left-hand sidebar.
