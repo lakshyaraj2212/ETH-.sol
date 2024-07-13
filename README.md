@@ -16,17 +16,18 @@ totalSupply: The total supply of the token (initially 0).
 # Functions
 
 # Mint
-solidity
 
 function Mint(address _address, uint _value) public
+
 Parameters:
 _address: The address to which new tokens will be assigned.
 _value: The number of tokens to mint.
 Description: This function increases the total supply by the specified value and adds the same amount to the balance of the given address.
 
 # Burn
-solidity
+
 function Burn(address _address, uint _value) public
+
 Parameters:
 _address: The address from which tokens will be burned.
 _value: The number of tokens to burn.
